@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deb142b5.chunk.css",
+    "main.js": "/static/js/main.81025fed.chunk.js",
+    "main.js.map": "/static/js/main.81025fed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e2242451.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e2242451.js.map",
+    "static/js/2.c19aada4.chunk.js": "/static/js/2.c19aada4.chunk.js",
+    "static/js/2.c19aada4.chunk.js.map": "/static/js/2.c19aada4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.33266fbcfa69c18d1cefc49807049fcd.js": "/precache-manifest.33266fbcfa69c18d1cefc49807049fcd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.deb142b5.chunk.css.map": "/static/css/main.deb142b5.chunk.css.map",
+    "static/js/2.c19aada4.chunk.js.LICENSE.txt": "/static/js/2.c19aada4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/OpenSans-Regular.629a55a7.ttf",
+    "static/media/logo.ico": "/static/media/logo.3ef91830.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2242451.js",
+    "static/js/2.c19aada4.chunk.js",
+    "static/css/main.deb142b5.chunk.css",
+    "static/js/main.81025fed.chunk.js"
+  ]
+}
